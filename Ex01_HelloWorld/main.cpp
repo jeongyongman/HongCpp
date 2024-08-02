@@ -20,3 +20,7 @@ int main() // entry point
 
     return 0;
 }
+
+/*
+g++ main.cpp -o helloworld.exe 직접 컴파일
+*/
